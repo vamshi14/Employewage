@@ -1,2 +1,3 @@
 
 echo "Hi "
+echo "Hello"
